@@ -1,16 +1,17 @@
 # nosso_primeiro_projeto
 
-Nosso primeiro projeto em Flutter
+Primeiro aplicativo escrito na linguagem Dart com auxílio do framework Flutter.
 
-## Getting Started
+| :placard: Vitrine.Dev |                               |
+|-----------------------|-------------------------------|
+| :sparkles: Nome       | **Nosso primeiro projeto**    |
+| :label: Tecnologias   | dart, flutter                 |
+| :rocket: URL          | https://url-deploy.com.br     |
+| :fire: Desafio        | https://url-do-desafio.com.br |
 
-This project is a starting point for a Flutter application.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg#vitrinedev)
 
-A few resources to get you started if this is your first Flutter project:
+## Detalhes do projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Trata-se de um aplicativo que faz uso de imagens e componentes básicos do Material Design.
