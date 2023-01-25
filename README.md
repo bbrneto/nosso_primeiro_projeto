@@ -13,4 +13,4 @@ Primeiro aplicativo escrito na linguagem Dart com auxílio do framework Flutter.
 
 ## Detalhes do projeto
 
-Trata-se de um aplicativo que faz uso de imagens e componentes básicos do Material Design.
+Trata-se de um aplicativo que faz uso de imagens, animações e componentes básicos do Material Design.
