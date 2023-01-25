@@ -2,15 +2,14 @@
 
 Primeiro aplicativo escrito na linguagem Dart com auxílio do framework Flutter.
 
-| :placard: Vitrine.Dev |                               |
-|-----------------------|-------------------------------|
-| :sparkles: Nome       | **Nosso primeiro projeto**    |
-| :label: Tecnologias   | dart, flutter                 |
-| :rocket: URL          | https://url-deploy.com.br     |
-| :fire: Desafio        | https://url-do-desafio.com.br |
+| :placard: Vitrine.Dev |                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------|
+| :sparkles: Nome       | **Nosso primeiro projeto**                                                              |
+| :label: Tecnologias   | dart, flutter, material-design                                                          |
+| :rocket: URL          | https://cursos.alura.com.br/course/flutter-widgets-stateless-stateful-imagens-animacoes |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg#vitrinedev)
+![](https://www.alura.com.br/assets/api/cursos/flutter-widgets-stateless-stateful-imagens-animacoes.svg#vitrinedev)
 
 ## Detalhes do projeto
 
